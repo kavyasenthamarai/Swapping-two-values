@@ -18,7 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-![](swap1.png)
+```python
+#Program to circulate N values.
+#Developed by: Kavya.K
+#RegisterNumber:22008613
+def circulate():
+    circul = l[n:]+l[:n]
+    print('After circulating the values are:',circul)
+l=eval(input())
+n=int(input())
+```python
+
+
+
+
 ## OUTPUT:
 ![](swap.png)
 ## RESULT:
